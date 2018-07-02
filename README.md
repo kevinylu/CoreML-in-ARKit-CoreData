@@ -3,3 +3,4 @@ This simple project detects objects in Augmented Reality and displays 3D labels 
 
 ### 3D Text with translation using coredata, import form csv file 
 
+CoreML-in-ARKit: https://github.com/hanleyweng/CoreML-in-ARKit
